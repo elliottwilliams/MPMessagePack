@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import <ServiceManagement/ServiceManagement.h>
+#import <xpc/base.h>
 
 @interface MPXPCService : NSObject
 

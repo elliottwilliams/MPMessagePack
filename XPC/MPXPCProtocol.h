@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <xpc/base.h>
 
 typedef NS_ENUM(NSInteger, MPXPCErrorCode) {
   MPXPCErrorCodeNone = 0,
